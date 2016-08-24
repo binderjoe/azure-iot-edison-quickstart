@@ -1,0 +1,9 @@
+{
+    "Device": {
+        "DeviceId": "mynewdevice",
+        "SharedAccessKey": "[Access Key]" 
+    },
+    "IotHub": {
+        "HostName": "[Hostname]"
+    }
+}
